@@ -26,5 +26,5 @@ namespace Lab2_Students_
         {
             return "Студент:" + Years;
         }
-    }
+    } 
 }
