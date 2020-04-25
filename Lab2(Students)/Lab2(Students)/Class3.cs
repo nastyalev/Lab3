@@ -14,6 +14,6 @@ namespace Lab2_Students_
             Direction = "Математика";
             Form = "Очная";
             Years = 4;
-        }
+        } 
     }
 }
