@@ -1,0 +1,13 @@
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).exe
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).deps.json
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).runtimeconfig.json
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).runtimeconfig.dev.json
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).dll
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\bin\Debug\netcoreapp3.1\Lab2(Students).pdb
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).csprojAssemblyReference.cache
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).AssemblyInfoInputs.cache
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).AssemblyInfo.cs
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).dll
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).pdb
+C:\Users\n\source\repos\Lab2(Students)\Lab2(Students)\obj\Debug\netcoreapp3.1\Lab2(Students).genruntimeconfig.cache
