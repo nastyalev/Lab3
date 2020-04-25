@@ -15,5 +15,5 @@ namespace Lab2_Students_
             Form = "Очная";
             Years = 4;
         }
-    }
+    } 
 }
