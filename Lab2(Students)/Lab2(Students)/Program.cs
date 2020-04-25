@@ -58,5 +58,5 @@ namespace Lab2_Students_
                     break;
             }
         }
-    }
+    } 
 }
