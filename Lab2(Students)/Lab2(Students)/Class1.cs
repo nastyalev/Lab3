@@ -20,4 +20,4 @@ namespace Lab2_Students_
         public abstract string Form_();
         public abstract string Years_();
     }
-}
+} 
