@@ -14,6 +14,6 @@ namespace Lab2_Students_
             Direction = "Химия";
             Form = "Заочная";
             Years = 5;    
-        }
+        } 
     }
 }
